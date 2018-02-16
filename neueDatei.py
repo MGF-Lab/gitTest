@@ -1,1 +1,2 @@
-etwas Neues
+# etwas Neues
+irgendein sinnvoller Python Code
