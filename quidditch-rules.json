@@ -1,10 +1,5 @@
 {
 	'Ein': 'erster Test',
 	'und': 'noch einer',
-<<<<<<< HEAD
-	'noch':'etwas'
-	'bla': 'wert2'
-=======
 	'ein': 'weiterer'
->>>>>>> lidar-version
 }
